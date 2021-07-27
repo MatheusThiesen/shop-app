@@ -14,5 +14,12 @@ declare module "styled-components" {
       normal: string;
       large: string;
     };
+    fonts: {
+      title700: string;
+      title500: string;
+      text400: string;
+      text500: string;
+      text700: string;
+    };
   }
 }
